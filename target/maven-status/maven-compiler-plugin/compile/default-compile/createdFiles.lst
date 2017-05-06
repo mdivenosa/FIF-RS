@@ -1,0 +1,5 @@
+test\TestClient.class
+fif\rs\service\Client.class
+fif\rs\service\FifService.class
+fif\rs\service\FifCoreIntegrationUtil.class
+fif\rs\service\RequestJ.class
